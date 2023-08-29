@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title>formulario 5</title>
+</head>
+<body>
+    <label>Nombre</label><br>
+    <input type="text" name="nombre" placeholder="Escribir nombre"><br>
+    <input type="radio" name="genero" value="Masculino" checked="Masculino"><br>
+    <input type="radio" name="genero" value="Masculino" checked="Femenino"><br><br>
+    <input type="checkbox" name="aceptacion">Acepto termino<br><br>
+    <input type="reset" name="reiniciar" value="Reiniciar formulario">
+    <input type="submit" name="enviar" value="Enviar mensaje">
+</body>
+</html>
